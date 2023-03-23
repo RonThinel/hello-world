@@ -10,5 +10,5 @@ Bold Example: **this is bold**
 ---
 
 Code Example in code format: 
-'<div class="form-field">'
+'div class="form-field"'
 
